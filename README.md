@@ -6,7 +6,7 @@
   - Implementing those custom parameters from scratch.
   - Building Vgg / resnet from scratch.
   
-* Course 2 : Applying advanced TF functionalities for effective custom-training process.
+* Course 2 : Applying advanced TF functionalities for effective custom-training processes.
   - Gradient tape usage.
   - Applying custom training loops.
   - Ising Autograph to use the graph-style code instead of Eager Excution.
@@ -19,7 +19,7 @@
   - Building U-net / VGG - FCN-8 encoder-decoder / Mask R-CNN models from scratch and using them for image segmentation.
   - Interpreting the CNNs and how to visualize the performance of each layer in the network using various methods.
   
-* Course 4 : still didn't air yet.
+* Course 4 : Applying custom-training techniques to build complex Generative models.
   - Building Neural Style Transfere from scratch.
   - Building AutoEncoders and Deep AutoEncoders.
   - Building Convolutional AutoEncoders from scratch and Applying it to several Datasets.
