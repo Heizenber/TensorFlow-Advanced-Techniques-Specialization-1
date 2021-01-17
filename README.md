@@ -20,3 +20,10 @@
   - Interpreting the CNNs and how to visualize the performance of each layer in the network using various methods.
   
 * Course 4 : still didn't air yet.
+  - Building Neural Style Transfere from scratch.
+  - Building AutoEncoders and Deep AutoEncoders.
+  - Building Convolutional AutoEncoders from scratch and Applying it to several Datasets.
+  - Building Variational AutoEncoders from scratch and Applying it to several Datasets.
+  - Using VAEs to generate Anime Faces. -needed more like another day of training tho-
+  - Building Vanilla-GAN and DCGAN from scratch.
+  - Using DCGANs to generate hand sign images.
